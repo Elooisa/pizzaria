@@ -5,6 +5,21 @@
   text-align: center;
 }
 
+
+ .home{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #36bb02aa;
+  width: 400px;
+  height: 500px;
+  color: white;
+  border-radius: 8%
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
